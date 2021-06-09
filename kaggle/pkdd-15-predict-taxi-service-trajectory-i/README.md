@@ -25,27 +25,40 @@ In this challenge, the gaol is to build a predictive framework that is able to i
 The LATITUDE/LONGITUDE represent the location's coordinates (using WGS84 format) of our predicted destination.
 
 ---  Problem of Multioutput Regression
+
 Multioutput regression are regression problems that involve predicting two or more numerical values given an input example.
+
 Some regression problems require the prediction of two or more numeric values. For example, predicting an x and y coordinate.
+
 
 These problems are referred to as multiple-output regression, or multioutput regression.
 
+
 *** Regression: Predict a single numeric output given an input.
+
 *** Multioutput Regression: Predict two or more numeric outputs given an input.
+
 
 1. Loarding The Data
 2. Exploratory Data Analysis
+
     Time series visualization
 3. Data Preprocessing
+
     Training Dataset preprocessing
     Testing Dataset preprocessing
 4. Building Machine Learning Models
 
     4.1 MultiOutputRegressor - Random Forest Regressor
+
     4.2 MultiOutputRegressor - Gradient Boosting Regressor
+
     4.3 MultiOutputRegressor - Linear Regression
+
     4.4 MultiOutputRegressor - k-Nearest Neighbors Regressor
+
     4.5 MultiOutputRegressor - Decision Tree Regressor
+
 
 ## 코드
 
