@@ -25,7 +25,9 @@ In this challenge, we ask you to build a predictive framework that is able to in
 
 ---  Evaluations
 Submissions are evaluated one the Root Mean Squared Logarithmic Error(RMSLE).
+
 Compute the Haversine distance between samples in X and Y.
+
    As the Earth is nearly spherical, the haversine formula provides a good approximation of the distance between two points of the Earth surface, with a less than 1% error on average.
 
 
