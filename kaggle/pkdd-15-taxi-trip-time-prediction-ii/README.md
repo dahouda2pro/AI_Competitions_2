@@ -46,5 +46,8 @@ Steps :
 [`./taxi-trip-time-prediction-ii.ipynb`](./taxi-trip-time-prediction-ii.ipynb)
 
 ## 참고 자료
+- [Calculating the Distance Between Two GPS Coordinates with Python (Haversine Formula)](https://nathanrooy.github.io/posts/2016-09-07/haversine-with-python/)
+
+- [Calculating distance between two geo-locations in Python](https://towardsdatascience.com/calculating-distance-between-two-geolocations-in-python-26ad3afe287b)
 
 - [Haversine distance between 2 points X and Y](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.haversine_distances.html)
