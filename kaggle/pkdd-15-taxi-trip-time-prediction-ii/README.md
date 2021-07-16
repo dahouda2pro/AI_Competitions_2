@@ -30,14 +30,14 @@ Compute the Haversine distance between samples in X and Y.
 
    As the Earth is nearly spherical, the haversine formula provides a good approximation of the distance between two points of the Earth surface, with a less than 1% error on average.
 
+Steps :
 
 1. Loarding The Data
 2. Exploratory Data Analysis
 
     Time series visualization
 3. Compute the Haversine distance
-
-    
+ 
 4. Make Predictions
 
 
